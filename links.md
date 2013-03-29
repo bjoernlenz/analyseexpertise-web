@@ -10,3 +10,8 @@
 #### Blogs
 
 * [Björn Lenz](https://pkvblog.telegr.am)
+
+#### Werbung
+
+<iframe src="http://rcm-de.amazon.de/e/cm?t=analyseexpert-21&o=3&p=42&l=ez&f=ifr&f=ifr" width="234" height="60" scrolling="no" marginwidth="0" marginheight="0" border="0" frameborder="0" style="border:none;"></iframe>
+
