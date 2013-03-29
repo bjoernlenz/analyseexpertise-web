@@ -2,7 +2,7 @@
 
 * * *
 
-* Und wenn man lang und anhaltend nachdenkt, lässt es sich fast nicht vermeiden, dass einem ab und zu etwas Neues einfällt
+### Und wenn man lang und anhaltend nachdenkt, lässt es sich fast nicht vermeiden, dass einem ab und zu etwas Neues einfällt
 * [Andreas Eschbach](http://www.amazon.de/Andreas-Eschbach/e/B001H6UJO8/?_encoding=UTF8&camp=1638&creative=19454&linkCode=ur2&site-redirect=de&tag=analyseexpert-21"): [Eine Billion Dollar](http://www.amazon.de/gp/product/3404150406/ref=as_li_ss_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=3404150406&linkCode=as2&tag=analyseexpert-21"), S. 775
 * ISBN-13: 978-3404150403
 
