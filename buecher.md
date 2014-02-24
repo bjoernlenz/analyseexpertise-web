@@ -1,10 +1,17 @@
 # Bücher
 
-### to explore
-* [something](http://www.minerva-kundenrechte.de)
-* [something](http://www.minerva-kundenrechte.de)
-* [something](http://www.minerva-kundenrechte.de)
-* [something](http://www.minerva-kundenrechte.de)
+### Scala / Lift
+
+#### Review [Lift Application Development Cookbook](http://www.packtpub.com/lift-application-development-cookbook/book)
+
+The book "Lift Application Development Cookbook" by Gilberto T. Garcia Jr. really lives up to the title "cookbook".
+There are recipies starting from the simpler concepts needed to build a Lift application, teaching the "know how" of different areas.
+The recipies are working and allow the developer do quickly start exploring a subject. I especially liked the balance between the more extraordinary topics like
+the things in the chapter "Integrating Lift with Social Media", but also covering easy and useful subjects like "Sending e-mails using Gmail's SMTP server" as such: a
+very easy recipe.
+
+What I am missing a bit - the reason for that is in the concept of a cookbook, of course - is more of a treatment of the "know why" opposed to the "know how".
+This book gives a head start to begin exploring a treated subject. The deeper understanding has to be acquired somewhere else.
 
 
 
