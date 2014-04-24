@@ -16,3 +16,24 @@
 
 <iframe src="http://rcm-de.amazon.de/e/cm?t=analyseexpert-21&o=3&p=42&l=ez&f=ifr&f=ifr" width="234" height="60" scrolling="no" marginwidth="0" marginheight="0" border="0" frameborder="0" style="border:none;"></iframe>
 
+#### SEO-Links [Minerva KundenRechte](http://www.minerva-kundenrechte.de?ref=analyseexpertise)
+
+Schöne Grüße an google! (und um alle mal wo gesammelt zu haben)
+
+* [Tarifwechsel AXA Krankenversicherung](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-AXA?ref=analyseexpertise)
+* [Tarifwechsel Allianz](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Allianz)
+* [Tarifwechsel Bayerische Beamtenkrankenkasse](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-BBKK)
+* [Tarifwechsel Central](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Central)
+* [Tarifwechsel Continentale Krankenversicherung](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Continentale)
+* [Tarifwechsel Deutscher-Ring Krankenversicherung](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Deutscher-Ring)
+* [Tarifwechsel DKV Krankenversicherung](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-DKV)
+* [Tarifwechsel Gothaer Krankenversicheurng](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Gothaer)
+* [Tarifwechsel HALLESCHE](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-HALLESCHE)
+* [Tarifwechsel Inter](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Inter)
+* [Tarifwechsel Münchener Verein](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Muenchener-Verein)
+* [Tarifwechsel Signal Iduna](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Signal)
+* [Tarifwechsel UKV](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-UKV)
+* [Tarifwechsel Versicherungskammer Bayern](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-VKB)
+* [Tarifwechsel Signal Iduna aus dem Tarif Signal GA100, GZa80, GZE, GS3](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Signal-GA100,GZa80,GZE,GS3)
+* [Tarifwechsel Münchener Verein aus dem Tarif 821](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Muenchener-Verein-821)
+* [Tarifwechsel Central aus dem Tarif Comfort1](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Central-Comfort1)
